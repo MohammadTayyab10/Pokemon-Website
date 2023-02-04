@@ -1,0 +1,53 @@
+body{
+    background-image: url("https://assets.pokemon.com/static2/_ui/img/chrome/body_bg.png");
+}
+
+.collapse{
+    display: flex;
+    justify-content: center;
+
+}
+
+
+
+.crown{
+    margin-left: 250px;
+}
+
+.side1{
+    margin-left: 850px;
+    margin-top: -500px;
+    height: 500px;
+}
+
+.crown2{
+    margin-left: 250px;
+    margin-top: 40px;
+}
+
+.side2{
+    margin-left: 850px;
+    margin-top: -510px;
+}
+
+.side3{
+    margin-left: 845px;
+    margin-top: 0px;
+}
+
+
+
+.but{
+    /* background-color: black; */
+    /* color: aliceblue; */
+    /* border: 1px solid black; */
+    border-radius: 10px;
+    margin-right: 230px;
+    height: 40px;
+   
+    text-align:end ;
+}
+
+.lastpics{
+    margin-left: 250px;
+}
